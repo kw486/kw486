@@ -1,5 +1,9 @@
-### Hola 👋
-
+### Hola bonas 👋
+Biologist turned computational - I love to code but miss playing with spiders \
+\
+Currently learning neural nets and Ai via Udemy... \
+\
+...and Catalan in my spare time (poc a poc...) 
 <!--
 **kw486/kw486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
