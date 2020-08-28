@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/54809939/89654277-4d466180-d8c0-11ea-84e0-bbdd43ad0acf.jpeg)
 
 ### Hola bonas 👋
-Biologist turned computational - I love to code but miss playing with spiders \
+Biologist turned computational - miss studying spiders \
 \
 Currently learning neural nets and Ai via Udemy... \
 \
