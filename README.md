@@ -1,14 +1,5 @@
 ![](https://user-images.githubusercontent.com/54809939/89654277-4d466180-d8c0-11ea-84e0-bbdd43ad0acf.jpeg)
 
-### Hola bonas 👋
-Biologist turned computational - sometimes miss studying spiders \
-\
-Currently learning neural nets and Ai via Udemy... \
-\
-...and Catalan in my spare time (poc a poc...) 
-
-![](https://user-images.githubusercontent.com/54809939/89654283-4f102500-d8c0-11ea-981e-34820e55238e.jpeg)
-
 <!--
 **kw486/kw486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
